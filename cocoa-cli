@@ -1,0 +1,16 @@
+{
+  "version": "v4",
+  "artifact": "cocoa-script-cli",
+  "name": "cocoa-cli",
+  "repository_url": "http://validURL.com",
+  "build_number": "33",
+  "commit_sha": "8e86dc4647ce28632103dce46b756c70d339349a",
+  "pipeline_run_id": "123123valid",
+  "app_artifacts": {
+    "app": "test",
+    "some_value": "value"
+  },
+  "type": "type",
+  "sha256": "786800e8e48938664fe2397ca14ab8dabd48f34656ef5cfda4143b4519cb714f",
+  "signature": "123123valid"
+}
